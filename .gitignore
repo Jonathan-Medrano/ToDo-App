@@ -1,5 +1,6 @@
 node_modules/
 .env
+<<<<<<< HEAD
 .env.*
 dist/
 build/
@@ -10,3 +11,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .DS_Store
+=======
+>>>>>>> aa551d5db053c9f534e7cb21588e5afe56333417
